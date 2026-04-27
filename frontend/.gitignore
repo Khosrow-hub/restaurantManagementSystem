@@ -20,3 +20,6 @@ Thumbs.db
 .vscode/
 .idea/
 .env
+
+BackEnd/config/config
+.env

@@ -33,3 +33,7 @@ Thumbs.db
 
 # optional: uploads (if you store files locally)
 uploads/
+BackEnd/config/config
+.env
+
+**/config.env
